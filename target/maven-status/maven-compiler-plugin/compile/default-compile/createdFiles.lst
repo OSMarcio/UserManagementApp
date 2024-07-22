@@ -1,0 +1,5 @@
+com\marciosilva\exercises\services\UserService.class
+com\marciosilva\exercises\models\User.class
+com\marciosilva\exercises\repositories\UserRepository.class
+com\marciosilva\exercises\UserManagementAppApplication.class
+com\marciosilva\exercises\controllers\UserController.class
